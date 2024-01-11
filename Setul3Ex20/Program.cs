@@ -10,7 +10,7 @@ class Program
     {
         int n;
         int[] s1, s2;
-        Console.WriteLine("Introduceti dimensiunea siraguriloe de margele");
+        Console.WriteLine("Introduceti dimensiunea siragurilor de margele");
         n = int.Parse(Console.ReadLine());
         s1 = new int[n];
         Console.WriteLine("Introduceti tipul de margele (0-alba, 1-neagra)");
