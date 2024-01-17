@@ -20,5 +20,6 @@
             throw new Exception("Indexul este inafara vectorului");
         Array.Sort(v1);
         Console.WriteLine("Numarul de la indexul {0} din vectorul sortat este {1}", index, v1[index]);
+        
     }
 }
